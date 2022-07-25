@@ -1,0 +1,54 @@
+[
+   {
+      "id": 3,
+      "imagen": "/imagenes/3.jpg",
+      "destino": "Berlín",
+      "disponibilidad": 2
+   },
+   {
+      "id": 4,
+      "imagen": "/imagenes/4.jpg",
+      "destino": "Cancún",
+      "disponibilidad": 1
+      
+   },
+   {
+      "id": 5,
+      "imagen": "/imagenes/5.jpg",
+      "destino": "Roma",
+      "disponibilidad": 1
+   },
+   {
+      "id": 2,
+      "imagen": "/imagenes/2.jpg",
+      "destino": "Amsterdam",
+      "disponibilidad": 5
+      },
+   {
+      "id": 1,
+      "imagen": "/imagenes/1.jpg",
+      "destino": "Venecia",
+      "disponibilidad": 4
+      },
+   {
+      "id": 6,
+      "imagen": "/imagenes/6.jpg",
+      "destino": "Brasil",
+      "disponibilidad": "NO DISPONIBLE"
+   },
+   {
+      "id": 7,
+      "imagen": "/imagenes/7.jpg",
+      "destino": "Iguazú",
+      "disponibilidad": "NO DISPONIBLE"
+   },
+   {
+      "id": 8,
+      "imagen": "/imagenes/8.jpg",
+      "destino": "Hawai",
+      "disponibilidad": "7"
+   }
+]
+
+
+
