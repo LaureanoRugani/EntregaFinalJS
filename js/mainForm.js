@@ -16,8 +16,7 @@ btnSubmit.addEventListener("mousemove", ()=> {
 document.addEventListener("submit", (e)=> {
     e.preventDefault()
     guardarDatosDeUsr()
-    // alert(`Lo contactaremos por mail para enviarle su cotizacion 😃`)
-    toastSA("Lo contactaremos por mail para enviarle su cotizacion 😃", "DodgerBlue", 4000, 'sucess')
+    alert(`Lo contactaremos por mail para enviarle su cotizacion 😃`)
 })
 
 function guardarDatosDeUsr() {
